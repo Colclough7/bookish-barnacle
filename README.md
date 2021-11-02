@@ -19,5 +19,5 @@ In a new HTML file, create the basic structure of an HTML document and include t
 ---
 
 
-![Student Bio Website]()
+![Student Bio Website](studentBio.png)
 
