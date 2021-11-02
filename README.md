@@ -7,7 +7,7 @@ In a new HTML file, create the basic structure of an HTML document and include t
 ---
 
 
-1.DOCTYPE declaration
+1. DOCTYPE declaration
 2. Head tag with a title tag
 3. H1 tag with a title of your choice
 4. Embed an image
